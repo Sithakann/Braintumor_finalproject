@@ -15,4 +15,6 @@ To classify brain tumors using MRI images, begin by collecting a labeled dataset
 ## Result
 In this project have accuracy for test set = 0.9657, Recall for test set = 0.9629, loss on test set = 0.1160, F1 on test set = 0.9633, percision on test set = 0.9642 and IOU on test set = 0.9653
 
+
+
 This project is partial fulfillment for the course Medical Signal processing and instrumentation (EGBE 601)
